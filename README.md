@@ -10,10 +10,10 @@ See [NanoEdge AI Studio Documentation](https://cartesiam-neai-docs.readthedocs-h
 ## How to use the open source code to create your own smart current sensor
 All instructions are available at [NanoEdge AI Studio tutorial](https://cartesiam-neai-docs.readthedocs-hosted.com/en/latest/).
 This tutorial is organized as follow:
-* [Objectives of the tutorial]()
-* [Requirements]()
-* [Making a data logger]()
-* [Using NanoEdge AI Studio to find the best library]()
-* [Using NanoEdge AI Emulator to test your library]()
-* [[PRO] Using your NanoEdge AI Library to build your final product]()
-* [Resources]()
+* [Objectives of the tutorial](https://cartesiam-neai-docs.readthedocs-hosted.com/en/latest/neai_current_tutorial/neai_current_tutorial/)
+* [Requirements](https://cartesiam-neai-docs.readthedocs-hosted.com/en/latest/neai_current_tutorial/neai_current_tutorial/#requirements)
+* [Making a data logger](https://cartesiam-neai-docs.readthedocs-hosted.com/en/latest/neai_current_tutorial/neai_current_tutorial/#making-a-data-logger)
+* [Using NanoEdge AI Studio to find the best library](https://cartesiam-neai-docs.readthedocs-hosted.com/en/latest/neai_current_tutorial/neai_current_tutorial/#using-nanoedge-ai-studio-to-find-the-best-library)
+* [Using NanoEdge AI Emulator to test your library](https://cartesiam-neai-docs.readthedocs-hosted.com/en/latest/neai_current_tutorial/neai_current_tutorial/#using-nanoedge-ai-emulator-to-test-your-library)
+* [[PRO] Using your NanoEdge AI Library to build your final product](https://cartesiam-neai-docs.readthedocs-hosted.com/en/latest/neai_current_tutorial/neai_current_tutorial/#pro-using-your-nanoedge-ai-library-to-build-your-final-product)
+* [Resources](https://cartesiam-neai-docs.readthedocs-hosted.com/en/latest/neai_current_tutorial/neai_current_tutorial/#resources)
