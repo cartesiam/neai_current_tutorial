@@ -61,7 +61,7 @@ int main()
 #else
 		print_clamp_buffer();
 #endif
-		thread_sleep_for(500);
+		wait_ms(500);
 	}
 }
 
@@ -71,7 +71,7 @@ void fill_clamp_buffer()
 	float datarate = ( 1.0 / DATARATE_HZ) * 1000; /* datarate from Hz to ms */
 	for (uint16_t i = 0; i < SAMPLE_SIZE; i++) {
 		clamp_values[i] = clamp.read();
-		thread_sleep_for(datarate); /* represent 2kHz */
+		wait_ms(datarate); /* represent 2kHz */
 	}
 }
 
